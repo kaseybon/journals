@@ -23,7 +23,7 @@
 
 ##Commands
 
-**git add** - Moves changes from the working directory to the staging area.
+**$ git add** - Moves changes from the working directory to the staging area.
 
 ##How To's
 
