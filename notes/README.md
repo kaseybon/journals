@@ -2,5 +2,5 @@
 
 ##Contents
 
-* [Markdown](/markdown.md)
-* [Git](/git.md)
+* [Markdown](markdown.md)
+* [Git](git.md)
