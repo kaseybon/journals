@@ -1,4 +1,4 @@
-#Week One
+#Week One - Git Basics
 
 ##Summary
 
@@ -26,5 +26,5 @@ In applying for the apprenticeship I knew I wanted to learn more about backend d
 
 ##Notes
 
-* [Markdown](./notes/markdown.md)
-* [Git](./notes/git.md)
+* [Markdown](../notes/markdown.md)
+* [Git](../notes/git.md)
