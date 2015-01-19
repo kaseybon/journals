@@ -7,5 +7,5 @@ This repo will be split into two sections, entries and notes. The entries will b
 
 | Entries | Notes |
 | ------- | ----- |
-| [Week One](/entries/week-one.md) | [markdown](/notes/markdown.md) |
+| [Week One - Git Basics](/entries/week-one.md) | [Markdown](/notes/markdown.md) |
 |  | [Git](/notes/git.md) |
