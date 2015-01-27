@@ -2,4 +2,4 @@
 
 ##Contents
 
-* I need to start reading!
+* [Getting Real](getting-real.md)
