@@ -8,4 +8,5 @@ This repo will be split into three sections, entries, notes and book reports. Th
 | Entries | Notes | Book Reports |
 | ------- | ----- | ------------ |
 | [Week One - Git Basics](/entries/week-one.md) | [Markdown](/notes/markdown.md) | [Getting Real](book-reports/getting-real.md) |
-| | [Git](/notes/git.md) | |
+| [Week Two - Ruby Basics](/entries/week-two.md) | [Git](/notes/git.md) | |
+|  | [Ruby](/notes/ruby/README.md) | |
