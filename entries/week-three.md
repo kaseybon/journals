@@ -16,7 +16,7 @@ This week we started talking about a programming methodology that I thought I ha
 
 As I learn more I'm starting to rethink how I would structure some of the side projects I want to eventually work on, especially the Ruby Flat File CMS I want to build.
 
-![OOP Whiteboard](/imgs/oop.jpg) 
+![OOP Whiteboard](imgs/oop.jpg) 
 
 ### Lastly...
 
