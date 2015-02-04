@@ -1,4 +1,5 @@
 #Getting Real
+*by 37signals*
 
 Getting Real is all about how to focus on building better software by both cutting the fluff out of the process and simplifying the product. The trick to building a quality product, or service even, is to stay small and gradually improve and add features... but only if they are absolutely necessary.
 

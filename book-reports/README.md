@@ -2,4 +2,4 @@
 
 ##Contents
 
-* [Getting Real](getting-real.md)
+* [Getting Real](getting-real.md), *37signals*
