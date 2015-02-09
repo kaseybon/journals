@@ -3,13 +3,15 @@
 Documenting my time at [Sparkbox](http://seesparkbox.com) and sharing my notes with the world.
 
 ## What this is
-This repo will be split into three sections, entries, notes and book reports. The entries will be the actual journal entires that cover each week during my apprenticeship. The notes section will be broken down into the awesome subjects I learn about. Lastly, Sparkbox encourages us to read so I will write about what I learned.
+
+This repo will be split into four sections, entries, notes, book reports and projects:
 
 ### Journal Entries
 
 * [Week One - Git Basics](/entries/week-one.md)
 * [Week Two - Ruby Basics](/entries/week-two.md)
 * [Week Three - More Ruby & Math](/entries/week-three.md)
+* [Week Four - OOP & Testing](/entries/week-four.md)
 
 ### Notes
 
@@ -17,7 +19,18 @@ This repo will be split into three sections, entries, notes and book reports. Th
 * [Git](/notes/git.md)
 * [Ruby](/notes/ruby/README.md)
 * [Discrete Mathematics and Probability Theory](/notes/maths.md)
+* [Testing](/notes/testing.md)
+* [RSpec](/notes/rspec/README.md)
 
 ### Book Reports
 
 * [Getting Real](book-reports/getting-real.md)
+
+### Projects
+
+*These projects live outside of this repo*
+
+* [Ruby Warrior](https://github.com/kaseybon/ruby-warrior)
+* [Roman Numerals Kata](https://github.com/kaseybon/katas/tree/master/roman-numerals)
+
+> Lately I have been making small mistakes that I have to go back and correct after committing. To prevent this I created a checklist of things to check [before committing](../before-committing.md)
