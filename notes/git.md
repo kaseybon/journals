@@ -49,6 +49,12 @@ git add world.jpg
 git commit -m 'Initial Commit'
 ```
 
+###Remove a file from staging
+
+```
+git reset HEAD <file>
+```
+
 ##Learn More
 
 * [Git Tower](http://www.git-tower.com/learn/videos)
