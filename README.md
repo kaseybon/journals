@@ -30,6 +30,8 @@ This repo will be split into four sections, entries, notes, book reports and pro
 
 *These projects live outside of this repo*
 
+* [Dotfiles](https://github.com/kaseybon/dotfiles)
+* [Ruby Koans](https://github.com/kaseybon/koans)
 * [Ruby Warrior](https://github.com/kaseybon/ruby-warrior)
 * [Roman Numerals Kata](https://github.com/kaseybon/katas/tree/master/roman-numerals)
 

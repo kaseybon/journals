@@ -28,3 +28,7 @@ In applying for the apprenticeship I knew I wanted to learn more about backend d
 
 * [Markdown](../notes/markdown.md)
 * [Git](../notes/git.md)
+
+##Projects
+
+* [Dotfiles](https://github.com/kaseybon/dotfiles)

@@ -15,3 +15,7 @@ One thing that really helped my was taking a break from the Koans after I felt b
 ##Notes
 
 * [Ruby](../notes/ruby/README.md)
+
+##Projects
+
+* [Ruby Koans](https://github.com/kaseybon/koans)
