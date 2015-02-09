@@ -1,6 +1,6 @@
-# Before Commiting
+# Before Committing
 
-*A handy checklist of things to check when commiting:*
+*A handy checklist of things to check when committing:*
 
 1. Notes
 	- Spell check
