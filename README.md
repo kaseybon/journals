@@ -35,4 +35,4 @@ This repo will be split into four sections, entries, notes, book reports and pro
 * [Ruby Warrior](https://github.com/kaseybon/ruby-warrior)
 * [Roman Numerals Kata](https://github.com/kaseybon/katas/tree/master/roman-numerals)
 
-> Lately I have been making small mistakes that I have to go back and correct after committing. To prevent this I created a checklist of things to check [before committing](../before-committing.md)
+> Lately I have been making small mistakes that I have to go back and correct after committing. To prevent this I created a checklist of things to check [before committing](before-committing.md)
