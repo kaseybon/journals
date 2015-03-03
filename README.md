@@ -12,6 +12,7 @@ This repo will be split into four sections, entries, notes, book reports and pro
 * [Week Two - Ruby Basics](/entries/week-two.md)
 * [Week Three - More Ruby & Math](/entries/week-three.md)
 * [Week Four - OOP & Testing](/entries/week-four.md)
+* [Weeks Five, Six & Seven - Girl Scouts, Ruby, & Build Responsively](/entries/weeks-five-six-seven.md)
 
 ### Notes
 
@@ -21,6 +22,7 @@ This repo will be split into four sections, entries, notes, book reports and pro
 * [Discrete Mathematics and Probability Theory](/notes/maths.md)
 * [Testing](/notes/testing.md)
 * [RSpec](/notes/rspec/README.md)
+* [Build Responsively](/notes/build-responsively.md)
 
 ### Book Reports
 
@@ -34,5 +36,9 @@ This repo will be split into four sections, entries, notes, book reports and pro
 * [Ruby Koans](https://github.com/kaseybon/koans)
 * [Ruby Warrior](https://github.com/kaseybon/ruby-warrior)
 * [Roman Numerals Kata](https://github.com/kaseybon/katas/tree/master/roman-numerals)
+* [Triangles](https://github.com/kaseybon/katas/tree/master/triangles)
+* [Fizz Buzz](https://github.com/kaseybon/katas/tree/master/fizz-buzz)
+* [Bowling](https://github.com/kaseybon/katas/tree/master/bowling)
+* [Girl Scouts](https://github.com/sparkbox/gswo-workshop)
 
 > Lately I have been making small mistakes that I have to go back and correct after committing. To prevent this I created a checklist of things to check [before committing](before-committing.md)

@@ -8,3 +8,4 @@
 * [Discrete Mathematics & Probability Theory](maths.md)
 * [Testing](testing.md)
 * [RSpec](rspec/README.md)
+* [Build Responsively](build-responsively.md)
