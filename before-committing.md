@@ -15,10 +15,17 @@
 	- Update table of contents in journals/book-reports/README.md
 	- Update table of contents in journals/README.md
 	- Add added/updated files to the git staging area
+1. **Goals**
+	- Spell check
+	- Double check all links in content
+	- Update table of contents in journals/goals/README.md
+	- Update table of contents in journals/README.md
+	- Add added/updated files to the git staging area
 1. **Journal Entries**
 	- Add links to any Notes
 	- Add links to any Projects
 	- Add links to any Book Reports
+	- Add links to any Goals
 	- Spell check
 	- Double check all links in content
 	- Include Sponge Bob meme (Optional)
