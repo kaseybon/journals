@@ -14,6 +14,12 @@ This repo will be split into four sections, entries, notes, book reports and pro
 * [Week Four - OOP & Testing](/entries/week-four.md)
 * [Weeks Five, Six & Seven - Girl Scouts, Ruby, & Build Responsively](/entries/weeks-five-six-seven.md)
 
+### Goals
+
+*After each monthly review I will share a list of goals for the next month*
+
+* [Review 1](goals/review-1.md)
+
 ### Notes
 
 * [Markdown](/notes/markdown.md)
