@@ -48,5 +48,6 @@ This repo will be split into four sections, entries, notes, book reports and pro
 * [Fizz Buzz - Ruby](https://github.com/kaseybon/katas/tree/master/ruby/fizz-buzz)
 * [Bowling - Ruby](https://github.com/kaseybon/katas/tree/master/ruby/bowling)
 * [Girl Scouts](https://github.com/sparkbox/gswo-workshop)
+* [Fizz Buzz - JS](https://github.com/kaseybon/katas/tree/master/javascript/fizz-buzz)
 
 > Lately I have been making small mistakes that I have to go back and correct after committing. To prevent this I created a checklist of things to check [before committing](before-committing.md)
