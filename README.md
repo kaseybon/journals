@@ -13,6 +13,7 @@ This repo will be split into four sections, entries, notes, book reports and pro
 * [Week Three - More Ruby & Math](/entries/week-three.md)
 * [Week Four - OOP & Testing](/entries/week-four.md)
 * [Weeks Five, Six & Seven - Girl Scouts, Ruby, & Build Responsively](/entries/weeks-five-six-seven.md)
+* [JavaScript & The Review](/entries/week-eight.md)
 
 ### Goals
 
