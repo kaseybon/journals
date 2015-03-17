@@ -26,4 +26,4 @@ I still have quite a bit of work to do, and need a lot of practice (I caught mys
 ## Projects
 
 * [Ruby Warrior](https://github.com/kaseybon/ruby-warrior)
-* [Roman Numerals Kata](https://github.com/kaseybon/katas/tree/master/roman-numerals)
+* [Roman Numerals Kata](https://github.com/kaseybon/katas/tree/master/ruby/roman-numerals)

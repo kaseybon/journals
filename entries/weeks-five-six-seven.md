@@ -24,7 +24,7 @@ For two mornings in week seven we got to sit with Ben for Build Responsively. I'
 
 ## Projects
 
-* [Triangles](https://github.com/kaseybon/katas/tree/master/triangles)
-* [Fizz Buzz](https://github.com/kaseybon/katas/tree/master/fizz-buzz)
-* [Bowling](https://github.com/kaseybon/katas/tree/master/bowling)
+* [Triangles](https://github.com/kaseybon/katas/tree/master/ruby/triangles)
+* [Fizz Buzz](https://github.com/kaseybon/katas/tree/master/ruby/fizz-buzz)
+* [Bowling](https://github.com/kaseybon/katas/tree/master/ruby/bowling)
 * [Girl Scouts](https://github.com/sparkbox/gswo-workshop)
