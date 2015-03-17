@@ -29,6 +29,7 @@ This repo will be split into four sections, entries, notes, book reports and pro
 * [Testing](/notes/testing.md)
 * [RSpec](/notes/rspec/README.md)
 * [Build Responsively](/notes/build-responsively.md)
+* [JavaScript](/notes/javascript/README.md)
 
 ### Book Reports
 

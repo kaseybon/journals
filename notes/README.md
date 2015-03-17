@@ -9,3 +9,4 @@
 * [Testing](testing.md)
 * [RSpec](rspec/README.md)
 * [Build Responsively](build-responsively.md)
+* [JavaScript](javascript/README.md)
