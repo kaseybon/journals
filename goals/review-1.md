@@ -2,10 +2,10 @@
 
 ## Git/Command Line/Dev Environment
 
-- [ ] Start using branches, especially with my katas repo
-- [ ] Group my commits better, stop lumping all changes into one commit when they would be better broken into more organized groups
+- [x] Start using branches, especially with my katas repo
+- [x] Group my commits better, stop lumping all changes into one commit when they would be better broken into more organized groups
 - [ ] Figure out why .bashrc isn't working
-- [ ] Stop using the mouse so much!
+- [x] Stop using the mouse so much!
 - [ ] Work through [The Linux Command Line: A Complete Introduction](http://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894/ref=sr_1_1?ie=UTF8&qid=1425486169&sr=8-1)
 
 ## Ruby
@@ -15,9 +15,9 @@
 - [ ] Build the Sourdough kata with web interface (flat file database for now)
 - [ ] Learn RSpec Mocs & Stubs
 
-## Javascript
+## JavaScript
 
-- [ ] Redo all katas in Javascript
+- [ ] Redo all katas in JavaScript
 - [ ] TDD all katas with Jasmine
 
 ## Books
@@ -30,4 +30,4 @@
 - [ ] Pair more often
 - [ ] Participate/Share more often in Slack
 - [ ] Setup a recipe-box repo to open source the cookbook!! *This might be something to use with my personal project later on*
-- [ ] Work with @danrosenthal and @laurendorman to reorganize the apprenticeship repo
+- [x] Work with @danrosenthal and @laurendorman to reorganize the apprenticeship repo
