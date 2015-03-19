@@ -28,13 +28,17 @@
 	- [ ] Add links to any Goals
 	- [ ] Spell check
 	- [ ] Double check all links in content
-	- [ ] Include Sponge Bob meme (Optional)
+	- [ ] Include relevant gifs/memes (Optional)
 	- [ ] Update table of contents in journals/entries/README.md
 	- [ ] Update table of contents in journals/README.md
 	- [ ] Add added/updated files to the git staging area and commit
 1. **Projects**
 	- [ ] Update table of contents in journals/README.md
 	- [ ] Add added/updated files to the git staging area and commit
+1. **README.md**
+	- [ ] Add updated main README.md and commit
+	- [ ] Push changes to GitHub
+	- [ ] Eat an Oreo to celebrate staying on top of things
 
 ##Commit Messages
 
@@ -50,6 +54,8 @@
 
 **projects:** Used when adding to the projects section.
 
-**fix:**  Used when fixing anything broken or not formatted properly.
+**week:** When updating the main README.md
+
+**fix:** Used when fixing anything broken or not formatted properly.
 
 **update:** Used for general updates.
